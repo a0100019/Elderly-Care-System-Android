@@ -25,6 +25,19 @@
 
 ---
 
+## 📸 화면 미리보기
+
+<table>
+  <tr>
+    <td align="center"><img src="https://github.com/CSID-DGU/2023-2-SCS4031-01-introverted_elephant/blob/main/image/Tutorial_1.png" width="200"/><br/><b>알림 전송 (보호자)</b></td>
+    <td align="center"><img src="https://github.com/CSID-DGU/2023-2-SCS4031-01-introverted_elephant/blob/main/image/Tutorial_2.png" width="200"/><br/><b>알림 수신 (어르신)</b></td>
+    <td align="center"><img src="https://github.com/CSID-DGU/2023-2-SCS4031-01-introverted_elephant/blob/main/image/Tutorial_6.png" width="200"/><br/><b>실시간 위치 확인</b></td>
+    <td align="center"><img src="https://github.com/CSID-DGU/2023-2-SCS4031-01-introverted_elephant/blob/main/image/Tutorial_5.png" width="200"/><br/><b>걸음 수 활동 통계</b></td>
+  </tr>
+</table>
+
+---
+
 ## 🚀 핵심 기능
 
 ### 🔐 회원가입 & 로그인
