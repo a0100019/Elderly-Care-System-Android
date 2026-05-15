@@ -16,7 +16,7 @@ import android.os.IBinder;
 import androidx.annotation.Nullable;
 import androidx.core.app.NotificationCompat;
 
-import com.oldcare.capstonedesign.MainActivity;
+import com.oldcare.capstonedesign.controller.MainActivity;
 import com.oldcare.capstonedesign.R;
 
 public class StepCounterService extends Service implements SensorEventListener {

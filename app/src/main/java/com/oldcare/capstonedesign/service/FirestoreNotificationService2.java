@@ -15,7 +15,7 @@ import androidx.annotation.Nullable;
 import androidx.core.app.NotificationCompat;
 
 import com.oldcare.capstonedesign.R;
-import com.oldcare.capstonedesign.login.LoginActivity;
+import com.oldcare.capstonedesign.controller.LoginActivity;
 import com.google.firebase.firestore.DocumentChange;
 import com.google.firebase.firestore.FirebaseFirestore;
 import com.google.firebase.firestore.ListenerRegistration;
